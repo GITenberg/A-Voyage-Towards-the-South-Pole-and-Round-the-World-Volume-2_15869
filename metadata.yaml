@@ -1,0 +1,37 @@
+_repo: A-Voyage-Towards-the-South-Pole-and-Round-the-World-Volume-2_15869
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Furneaux, Tobias
+    birthdate: 1735
+    deathdate: 1781
+    gutenberg_agent_id: '39057'
+    url: http://www.gutenberg.org/2009/agents/39057
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, James
+    birthdate: 1728
+    deathdate: 1779
+    gutenberg_agent_id: '2644'
+    url: http://www.gutenberg.org/2009/agents/2644
+    wikipedia: http://en.wikipedia.org/wiki/James_Cook
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2005-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Discovery and exploration -- Early works to 1800'
+- !lcsh 'Antarctica'
+- !lcc 'G'
+- !lcsh 'Voyages around the world -- Early works to 1800'
+title: A Voyage Towards the South Pole and Round the World Volume 2
+url: http://www.gutenberg.org/ebooks/15869
